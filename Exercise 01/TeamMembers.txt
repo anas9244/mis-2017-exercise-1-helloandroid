@@ -1,2 +1,39 @@
-Anas Alnayef 117260
-Saeed Entezari
+Anas Alnayef    117260
+Saeed Entezari  118048
+
+
+
+************************** Sources for Exercise 01: **************************
+
+** https://developer.android.com/reference/java/net/HttpURLConnection.html
+** https://docs.oracle.com/javase/7/docs/api/java/net/HttpURLConnection.html
+
+Regular Expressions to verify the url.
+** http://stackoverflow.com/questions/34134704/how-to-check-if-a-string-contains-url-in-java
+
+hide the keyboard on app start.
+** http://stackoverflow.com/questions/5056734/android-force-edittext-to-remove-focus
+
+call the onclick method of the "connect" button  when clicking "Send" on keyboard.
+** http://stackoverflow.com/questions/4451374/use-enter-key-on-softkeyboard-instead-of-clicking-button
+
+Hide keyboard after connecting to show the result better.
+** http://stackoverflow.com/questions/13593069/androidhide-keyboard-after-button-click
+
+perform http connection in background and show the response when finished(on post execute method).
+** http://www.codexpedia.com/android/asynctask-and-httpurlconnection-sample-in-android/
+
+set the connection timeout to 10 seconds
+** https://eventuallyconsistent.net/2011/08/02/working-with-urlconnection-and-timeouts/
+
+Detect if url is for an image or not.
+** http://stackoverflow.com/questions/3453641/detect-if-specified-url-is-an-image-in-android
+
+Handle timeout and connection refused
+** http://stackoverflow.com/questions/6888139/how-do-i-catch-connection-refused-exception-in-java
+** http://stackoverflow.com/questions/2799938/httpurlconnection-timeout-question
+
+The rounded corners
+** http://www.android-examples.com/add-rounded-corners-border-to-edittext-android-using-xml/
+
+***********************************************************************************************
